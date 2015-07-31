@@ -1,0 +1,2063 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Retouch\n"
+"POT-Creation-Date: 2015-04-15 13:53+0200\n"
+"PO-Revision-Date: 2015-04-15 13:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: DarwinThemes <darwinthemes@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: E:\\wamp\\www\\retouch\\wp-content\\themes\\retouch-"
+"parent\n"
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/404.php:14
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:195
+msgid "404 Page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/404.php:36
+msgid "Not Found"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/404.php:40
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/archive.php:14
+msgid "Archive"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments-template.php:21
+msgid "Pingback:"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments-template.php:21
+msgid "Edit"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments-template.php:39
+msgid "said"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments-template.php:51
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:24
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:32
+msgid "Message"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:41
+#, php-format
+msgid "Leave Your Reply to %s"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:42
+msgid "Cancel Reply"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:43
+msgid "Send"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:49
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:55
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:70
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:39
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:88
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:130
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:180
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:39
+msgid "Name"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:75
+msgid "Email"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:79
+msgid "Website"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:105
+msgid "PREV"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:106
+msgid "NEXT"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/comments.php:114
+msgid "Comments are closed."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-none.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-none.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-single.php:17
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/listing-blog2.php:20
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/portfolio/views/content-single.php:17
+msgid "by"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-single.php:21
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/portfolio/views/content-single.php:21
+msgid "0"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-single.php:21
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/portfolio/views/content-single.php:21
+msgid "1"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-single.php:21
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/portfolio/views/content-single.php:21
+msgid "%"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-single.php:29
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/portfolio/views/content-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/content-single.php:46
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/portfolio/views/content-single.php:44
+msgid "Categories"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/footer.php:21
+msgid "Follow us"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/functions.php:72
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/functions.php:73
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/functions.php:74
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/functions.php:75
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/functions.php:86
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/functions.php:87
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:212
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1958
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/functions.php:88
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/header.php:33
+msgid "Skip to navigation"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/header.php:34
+msgid "Skip to content"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/header.php:35
+msgid "Skip to footer"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/index.php:15
+msgid "Homepage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/index.php:24
+msgid "Blogpage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/listing-blog1.php:18
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/listing-blog2.php:25
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:271
+msgid "Sticky"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/listing-blog1.php:22
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/listing-blog2.php:29
+msgid "Continue reading"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/search-form.php:4
+msgid "Search"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/search-form.php:8
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/widgets/fw-search/views/widget.php:24
+msgid "Submit"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/search.php:14
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:143
+msgid "Search Page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/config.php:7
+msgid "About"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/config.php:8
+msgid "About us shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/text-block/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/config.php:7
+msgid "Content Elements"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:8
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:8
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:54
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:82
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:99
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:127
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:144
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:173
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:8
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:8
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:39
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:9
+msgid "Title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:8
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:9
+msgid "Type section title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:13
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:13
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:13
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:60
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:105
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:150
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:14
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:13
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:12
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:13
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:14
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:14
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:13
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:15
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:15
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:74
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:126
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:178
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:230
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:304
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:390
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:28
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:30
+msgid "Subtitle"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:14
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:14
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:14
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:13
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:14
+msgid "Type section subtitle"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:18
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:65
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:110
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:156
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:20
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:21
+msgid "Image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:19
+msgid "Upload about image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:25
+msgid "About Us"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:26
+msgid "About us text"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:32
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:79
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:59
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:193
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:68
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:134
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:224
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:22
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:38
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:33
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:27
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:65
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:59
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:30
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:28
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:28
+msgid "Text Color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:33
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:80
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:60
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:194
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:69
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:135
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:225
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:23
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:39
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:34
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:28
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:66
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:60
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:31
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:29
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:29
+msgid "Choose section text color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:42
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:89
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:69
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/options.php:19
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:203
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:78
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:144
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:234
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:32
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:48
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:43
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:78
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:75
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:69
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:40
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:38
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:38
+msgid "Bg Color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:43
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:90
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:70
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/options.php:20
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:204
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:79
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:235
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:33
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:49
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:44
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:79
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:76
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:70
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:41
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:39
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:39
+msgid "Choose section background color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:47
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:94
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:74
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/options.php:24
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:208
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:83
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:149
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:239
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:37
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:53
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:48
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:83
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:80
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:74
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:45
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:43
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:43
+msgid "Bg Image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:48
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:95
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:75
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/options.php:25
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:209
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:84
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:150
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:240
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:38
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:54
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:49
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:84
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:81
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:75
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:46
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:44
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:44
+msgid "Upload section background image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:54
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:101
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:81
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/options.php:31
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:215
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:90
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:156
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:246
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:44
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:60
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:55
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:90
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:87
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:81
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:52
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:50
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:50
+msgid "Bg Pattern"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/about/options.php:55
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:102
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:82
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/options.php:32
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:216
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:91
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:157
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:247
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:45
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:61
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:56
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:91
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:88
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:82
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:53
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:51
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:51
+msgid "Upload section background image pattern"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:247
+msgid "Blog"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:8
+msgid "Blog Posts shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:18
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:19
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:88
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:133
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:179
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:18
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:17
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:44
+msgid "Description"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:19
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:19
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:18
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:21
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:37
+msgid "Add a short description"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:23
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:275
+msgid "Blog View"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:26
+msgid "Select blog view template"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:62
+msgid "Display From"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:63
+msgid "Select a blog category"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:70
+msgid "No of Posts"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:71
+msgid "Enter the number of posts to display. Ex: 3, 6, maximum of 50"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/views/view.php:64
+msgid "Latest Posts"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/views/view.php:121
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/blog/views/view.php:159
+msgid "View more"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/config.php:7
+msgid "Carousel Slider"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/config.php:8
+msgid "Carousel slider shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/config.php:9
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/config.php:7
+msgid "Media Elements"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:8
+msgid "Type section title here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:14
+msgid "Type section subtitle here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:20
+msgid "Add a short description."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:34
+msgid "Slides"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:35
+msgid "Add Slide"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:40
+msgid ""
+"Enter a name (it is for internal use and will not appear on the front end)"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:44
+msgid "Slide Image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:45
+msgid "Upload slide image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:49
+msgid "Slide Link"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/carousel-slider/options.php:50
+msgid "Type slide link here"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/config.php:7
+msgid "Devider"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/config.php:8
+msgid "Devider shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/options.php:8
+msgid "Height"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/devider/options.php:9
+msgid "Devider height"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/config.php:5
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:76
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:121
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:167
+msgid "Features"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/config.php:6
+msgid "Features Shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:12
+msgid "Feature Type"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:15
+msgid "Select feature type"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:55
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:100
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:145
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:10
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:10
+msgid "Section title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:61
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:106
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:151
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:15
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:15
+msgid "Section subtitle"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:66
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:111
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:157
+msgid "Upload features image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:77
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:168
+msgid "Add features (max 4)"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:83
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:128
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:174
+msgid "Feature title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:89
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:134
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:180
+msgid "Feature short description"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/features/options.php:122
+msgid "Add features (max 3)"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/config.php:7
+msgid "Get App"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/config.php:8
+msgid "Get App shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:21
+msgid "Upload section image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:25
+msgid "Alignment"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:26
+msgid "Choose image alignment"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:30
+msgid "Position 1"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:31
+msgid "Position 2"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:32
+msgid "Position 3"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:33
+msgid "Position 4"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:34
+msgid "Position 5"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:35
+msgid "Position 6"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:41
+msgid "Number"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:42
+msgid "Add a number ( it will be displayed as a counter)"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:48
+msgid "Short Text"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:49
+msgid "After number text"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:53
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:116
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:491
+msgid "App Store URL"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:54
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:117
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:492
+msgid "Add App Store button URL"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:59
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:122
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:497
+msgid "Google Play URL"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/options.php:60
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:123
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:498
+msgid "Add Google Play button URL"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/config.php:5
+msgid "Header Static"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/config.php:6
+msgid "Header Image Shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:12
+msgid "Header Type"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:15
+msgid "Select header type"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:44
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:106
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:68
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:120
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:172
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:224
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:349
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:437
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:40
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:40
+msgid "Header Title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:45
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:107
+msgid "Add header title here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:50
+msgid "Device Type"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:53
+msgid "Select device type"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:98
+msgid "Main Image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:99
+msgid "Upload main header image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:111
+msgid "Header SubTitle"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:112
+msgid "Add header subtitle here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/options.php:145
+msgid "Choose section background color background"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:78
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:120
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:170
+msgid "Members"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/config.php:8
+msgid "Team members shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:28
+msgid "Team View"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:31
+msgid "Select team section view type"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:79
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:121
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:171
+msgid "Add team members"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:83
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:125
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:175
+msgid "Team Member Image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:84
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:126
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:176
+msgid ""
+"Either upload a new, or choose an existing image from your media library"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:89
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:131
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:181
+msgid "Member name here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:94
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:136
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:186
+msgid "Team Member Job Title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:95
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:137
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:187
+msgid "Job title of the person."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:100
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:148
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:192
+msgid "Member URL"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:101
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:149
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:193
+msgid "Add member URL"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:142
+msgid "Member Info"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:143
+msgid "Add a short info."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:198
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:468
+msgid "Facebook Link"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:199
+msgid "Member Facebook Link."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:204
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:474
+msgid "Twitter Link"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:205
+msgid "Member Twitter Link."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:210
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:480
+msgid "Instagram Link"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/members/options.php:211
+msgid "Member Instagram Link."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/config.php:5
+msgid "Newsletter"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/config.php:6
+msgid "Newsletter shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:10
+msgid "Newsletter title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:15
+msgid "Newsletter Shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/newsletter/options.php:16
+msgid "Insert here newsletter shortcode (mailchimp used)"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:7
+msgid "Portfolio"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:8
+msgid "Portfolio Shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:24
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:407
+msgid "Portfolio Posts"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:25
+msgid "Get portfolio posts from"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:31
+msgid "Posts Per Page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:32
+msgid "Posts per page to display"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/config.php:7
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:26
+msgid "Pricing Plans"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/config.php:8
+msgid "Pricing plans shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:18
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:20
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:80
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:132
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:184
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:236
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:309
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:395
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:34
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:36
+msgid "Short Description"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:19
+msgid "Add Short description"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/pricing-plans/options.php:27
+msgid "Add pricing plans here"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/config.php:5
+msgid "Contact"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/config.php:6
+msgid "Contact form shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:10
+msgid "Write the contact section title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:15
+msgid "Write the contact section subtitle"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:20
+msgid "Contact Shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:21
+msgid "Insert here contact shortcode (contact form 7 used)"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:39
+msgid "Enable Map"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:40
+msgid "Enable Google Map"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:43
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:535
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:572
+msgid "Yes"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:47
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:539
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:576
+msgid "No"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:61
+msgid "Location"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:62
+msgid "Choose location on map"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:67
+msgid "Map Zoom"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/retouch-form/options.php:68
+msgid "Type map zoom"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/config.php:5
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:34
+msgid "Services"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/config.php:6
+msgid "Services shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:35
+msgid "Add Services"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:40
+msgid "Add service title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:45
+msgid "Add service short description"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:49
+msgid "Icon"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:50
+msgid "Add linea icon ( see all icons "
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:50
+msgid "here"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:55
+msgid "URL"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/services/options.php:56
+msgid "Add service URL"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:7
+msgid "Testimonials"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:8
+msgid "Add related testimonials about you"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:8
+msgid "Type title here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:14
+msgid "Type subtitle here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:29
+msgid "Testimonial"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:30
+msgid "Add Testimonial"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:34
+msgid "Avatar"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:35
+msgid "Add image avatar"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:40
+msgid "Add a name"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:44
+msgid "Position"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:45
+msgid "Add position"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:49
+msgid "Text"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:50
+msgid "Add testimonial text here"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/text-block/config.php:7
+msgid "Text Block"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/text-block/config.php:8
+msgid "A very awesome text block"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php:10
+msgid "Content"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/text-block/options.php:11
+msgid "Enter some content for this texblock"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/config.php:5
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:473
+msgid "Twitter"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/config.php:6
+msgid "Twitter shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:7
+msgid "Twitter Title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:8
+msgid "Type twitter title here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:14
+msgid "Twitter User"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:15
+msgid "Enter your twitter user here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:21
+msgid "Tweets Number"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/twitter/options.php:22
+msgid "Enter tweets number here."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/config.php:5
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:21
+msgid "Video"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/config.php:6
+msgid "Video shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:10
+msgid "Video title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:16
+msgid "Video subtitle"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/video/options.php:22
+msgid "Video link from youtube"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/config.php:5
+msgid "Zoom"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/config.php:6
+msgid "Zoom shortcode"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:10
+msgid "Zoom section title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:16
+msgid "Zoom section subtitle"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/zoom/options.php:22
+msgid "Upload zoom image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/manifest.php:6
+msgid "Retouch"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/manifest.php:8
+msgid "Another awesome wordpress theme"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:7
+msgid "General"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:12
+msgid "General Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:16
+msgid "Logo"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:17
+msgid "Upload logo image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:21
+msgid "Footer Logo"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:22
+msgid "Upload footer logo image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:27
+msgid "Favicon"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:28
+msgid "Upload favicon image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:39
+msgid "Home Page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:44
+msgid "HomePage Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:53
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:105
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:157
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:209
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:260
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:332
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:373
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:420
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:20
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:20
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:10
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:10
+msgid "Header Color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:54
+msgid "Choose header color background for homepage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:57
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:109
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:161
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:213
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:264
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:337
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:378
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:425
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:26
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:26
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:15
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:16
+msgid "Header Image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:58
+msgid "Upload header image for homepage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:62
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:114
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:166
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:218
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:269
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:343
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:384
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:431
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:33
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:33
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:21
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:23
+msgid "Header Pattern"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:63
+msgid "Upload header pattern for homepage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:69
+msgid "Type header title for homepage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:75
+msgid "Type subtitle for homepage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:81
+msgid "Add a short description for homepage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:91
+msgid "Blog Page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:96
+msgid "BlogPage Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:106
+msgid "Choose header color background for blogpage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:110
+msgid "Upload header image for blogpage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:115
+msgid "Upload header pattern for blogpage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:121
+msgid "Type header title for blogpage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:127
+msgid "Type subtitle for blogpage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:133
+msgid "Add a short description for blogpage"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:148
+msgid "Search Page Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:158
+msgid "Choose header color background for search page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:162
+msgid "Upload header image for search page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:167
+msgid "Upload header pattern for search page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:173
+msgid "Type title for search page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:179
+msgid "Type subtitle for search page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:185
+msgid "Add a short description for search page"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:200
+msgid "404 Page Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:210
+msgid "Choose header color background for page 404"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:214
+msgid "Upload header image for page 404"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:219
+msgid "Upload header pattern for page 404"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:225
+msgid "Type header title for page 404"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:231
+msgid "Type subtitle for page 404"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:237
+msgid "Add a short description for page 404"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:251
+msgid "Blog Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:261
+msgid ""
+"Choose header color background for categories. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:261
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:265
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:270
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:305
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:310
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:333
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:338
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:344
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:350
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:374
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:379
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:385
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:391
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:396
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:421
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:426
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:432
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:438
+msgid "individually"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:265
+msgid "Upload header image for categories. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:270
+msgid "Upload header pattern for categories. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:276
+msgid "Select the blog view"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:305
+msgid "Type subtitle for categories. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:310
+msgid "Add a short description for categories. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:319
+msgid "Blog Posts"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:323
+msgid "Posts Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:333
+msgid "Choose header color background for posts. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:338
+msgid "Upload header image for posts. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:344
+msgid "Upload header pattern for posts. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:350
+msgid "Add title for posts. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:359
+msgid "Portfolio Categories"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:364
+msgid "Portfolio Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:374
+msgid ""
+"Choose header color background for portfolio categories.  You can rewrite it "
+"in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:379
+msgid ""
+"Upload header image for portfolio categories.  You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:385
+msgid ""
+"Upload header pattern for portfolio categories.  You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:391
+msgid "Type subtitle for portfolio categories.  You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:396
+msgid ""
+"Add a short description for portfolio categories.  You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:411
+msgid "Portfolio Posts Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:421
+msgid ""
+"Choose header color background for portfolio posts. You can rewrite it in "
+"each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:426
+msgid "Upload header image for portfolio posts. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:432
+msgid "Upload header pattern for portfolio posts. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:438
+msgid "Add title for portfolio posts. You can rewrite it in each"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:447
+msgid "Footer"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:451
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:456
+msgid "Footer Copyright"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:455
+msgid "Copyright"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:463
+msgid "Footer Socials"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:467
+msgid "Facebook"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:479
+msgid "Instagram"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:487
+msgid "Footer Downloads"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:508
+msgid "Styling"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:513
+msgid "Styling Options"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:517
+msgid "Color Scheme"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:518
+msgid ""
+"The theme comes with unlimited color schemes for your theme. Use or color "
+"picker."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:531
+msgid "Headings Typography"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:532
+msgid "Add headings typography?"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:554
+msgid "Choose headings fonts and color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:568
+msgid "Body Typography"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:569
+msgid "Add body typography?"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:591
+msgid "Choose body fonts and color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:598
+msgid "Menu Text Color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:599
+msgid "Choose text menu color."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:603
+msgid "Menu Bg Color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:604
+msgid "Choose menu background color."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:608
+msgid "Sticky Menu Bg Color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:609
+msgid "Choose sticky menu background color."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:613
+msgid "Sticky Menu Text Color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/settings.php:614
+msgid "Choose sticky menu text color."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:11
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:11
+msgid "Header Settings"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:21
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:21
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:11
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:11
+msgid "Choose header color background"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:27
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:27
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:17
+msgid "Upload header image"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:34
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:34
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:24
+msgid "Upload header pattern"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/fw-portfolio.php:41
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/posts/post.php:41
+msgid "Add header title here"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:16
+msgid "Upload header image."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:22
+msgid "Upload header pattern."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:29
+msgid "Add category subtitle."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/category.php:35
+msgid "Add category short description."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/framework-customizations/theme/options/taxonomies/fw-portfolio-category.php:31
+msgid "Type subtitle"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:219
+msgid "Previous"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:227
+msgid "Next"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:249
+msgid "Post navigation"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:253
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:255
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:256
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:554
+msgid "All"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/helpers.php:614
+msgid "All Categories"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:182
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:213
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:214
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:222
+msgid "Site Title Color"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:225
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:229
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/includes/sub-includes/featured-content.php:394
+msgid "Featured Content"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:230
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/includes/sub-includes/featured-content.php:395
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:244
+msgid "Layout"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:248
+msgid "Grid"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:249
+msgid "Slider"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/hooks.php:292
+msgid "General Widget Area"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/menus.php:8
+msgid "Top Menu"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/menus.php:47
+msgid "Please go to the"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/menus.php:47
+msgid "Menu"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/menus.php:47
+msgid ""
+"section, create a  menu and then select the newly created menu from the "
+"Theme Locations box from the left."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/includes/sub-includes/featured-content.php:417
+msgid "Tag Name"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/includes/sub-includes/featured-content.php:422
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/widgets/fw-search/class-widget-fw-search.php:6
+msgid "A search form for your site."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/widgets/fw-search/class-widget-fw-search.php:8
+msgid "Retouch Search"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/inc/widgets/fw-search/class-widget-fw-search.php:49
+msgid "Title:"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:548
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2175
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1178
+msgid "Private Repository"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1181
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1186
+msgid "WordPress Repository"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1189
+msgid "Required"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1189
+msgid "Recommended"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1192
+msgid "Not Installed"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1194
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1296
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1404
+msgid "Install"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1318
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1405
+msgid "Activate"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1367
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1383
+msgid "Plugin"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1384
+msgid "Source"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1385
+msgid "Type"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1386
+msgid "Status"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1514
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1622
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1941
+msgid "Install package not available."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1942
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1943
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1944
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1945
+msgid "Plugin install failed."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1946
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:1957
+msgid "Plugin activation failed."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2072
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2081
+msgid "Show Details"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2072
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2081
+msgid "Hide Details"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2073
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2080
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2082
+msgid "All installations have been completed."
+msgstr ""
+
+#: E:\wamp\www\retouch\wp-content\themes\retouch-parent/tgm-activation/class-tgm-plugin-activation.php:2083
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""

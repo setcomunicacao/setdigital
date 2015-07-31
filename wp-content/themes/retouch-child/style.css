@@ -1,0 +1,15 @@
+/*
+Theme Name: Retouch Child
+Theme URI: http://darwinthemes.com
+Author: Darwin Themes
+Author URI: http://darwinthemes.com
+Description: Retouch is a Business WordPress theme composed of customizable blocks.
+Version: 1.0
+License: http://darwinthemes.com
+License URI: http://darwinthemes.com
+Tags: responsive-layout
+Template: retouch-parent
+*/
+
+
+@import url("../retouch-parent/style.css");
